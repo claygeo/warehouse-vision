@@ -25,7 +25,7 @@ A Shiny R web application for managing a U-shaped warehouse with multi-component
 
 ## Setup
 
-1. Clone the repository: git clone https://github.com/your-username/warehouse-vision.git
+1. Clone the repository: git clone https://github.com/claygeo/warehouse-vision.git
 2. Navigate to the project directory: cd warehouse-vision
 3. Install R packages: install.packages(c("shiny", "shinydashboard", "tidyverse", "plotly", "DT", "lubridate", "viridis", "viridisLite"))
 4. Run the app in RStudio (open standalone_warehouse_app.R and click "Run App") or in R:library(shiny) runApp("standalone_warehouse_app.R")
